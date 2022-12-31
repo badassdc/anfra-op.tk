@@ -4,13 +4,13 @@ module.exports = {
         title: 'Custom Bot Hub | Best Community',
         description: 'Custom Bot Hub Studios is Best Coding + Gaming Community Where you can Get Free / Paid Bots.',
         author: 'Custom Bot Hub',
-        authorImage: "https://cdn.discordapp.com/attachments/960208290506215456/992524631351238716/T2.png",
-        image: 'https://cdn.discordapp.com/attachments/960208290506215456/992524631636459560/T3.png',
+        authorImage: "https://images-ext-2.discordapp.net/external/lqk_o8KTfciplbwm8p-6JLSrI3MflyYC4OKT4kENI3A/https/cdn.discordapp.com/icons/887212204535988275/b1a8fe567b321070e0bf4513135d607c.webp?width=86&height=86",
+        image: 'https://images-ext-2.discordapp.net/external/lqk_o8KTfciplbwm8p-6JLSrI3MflyYC4OKT4kENI3A/https/cdn.discordapp.com/icons/887212204535988275/b1a8fe567b321070e0bf4513135d607c.webp?width=86&height=86',
         favicon: '/anfra-logo.png',
         url: 'anfra-op.tk',
         themeColor: '#4e1ead',
         email: 'contact@tresthost.com',
-        logo: "https://cdn.discordapp.com/attachments/960208290506215456/992524631351238716/T2.png"
+        logo: "https://images-ext-2.discordapp.net/external/lqk_o8KTfciplbwm8p-6JLSrI3MflyYC4OKT4kENI3A/https/cdn.discordapp.com/icons/887212204535988275/b1a8fe567b321070e0bf4513135d607c.webp?width=86&height=86"
     },
 
     social: {
