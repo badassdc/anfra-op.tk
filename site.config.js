@@ -1,9 +1,9 @@
 module.exports = {
     base: 'anfra-op.tk',
     siteMetadata: {
-        title: 'AnFra Supreme | Best Discord Bot',
-        description: 'AnFra Supreme is Best Discord Bot to manage your servers.',
-        author: 'AnFra Supreme',
+        title: 'Custom Bot Hub | Best Community',
+        description: 'Custom Bot Hub Studios is Best Coding + Gaming Community Where you can Get Free / Paid Bots.',
+        author: 'Custom Bot Hub',
         authorImage: "https://cdn.discordapp.com/attachments/960208290506215456/992524631351238716/T2.png",
         image: 'https://cdn.discordapp.com/attachments/960208290506215456/992524631636459560/T3.png',
         favicon: '/anfra-logo.png',
