@@ -47,8 +47,8 @@ export default function Home() {
       
       <main className="flex flex-col items-center justify-center text-center">
       <div className="h-[33rem] flex flex-col justify-center items-center mb-72">
-      <h1 className="relative text-4xl lg:text-5xl text-black dark:text-white pb-2 leading-20 font-semibold">Welcome To <span class="text-primary">AnFra Supreme</span></h1>
-      <p className="text-lg text-gray-500 font-bold">Start using AnFra Supreme and Manage your Discord Servers</p>
+      <h1 className="relative text-4xl lg:text-5xl text-black dark:text-white pb-2 leading-20 font-semibold">Welcome To <span class="text-primary">Custom Bot Hub Studios</span></h1>
+      <p className="text-lg text-gray-500 font-bold">Join Custom Bot Hub Studios For Free and Paid Bots</p>
       <div className="flex justify-center w-full mt-6">
       <motion.div
           whileHover={{ scale: 1.05 }}
