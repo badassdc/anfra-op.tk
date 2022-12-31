@@ -6,7 +6,7 @@ module.exports = {
         author: 'Custom Bot Hub',
         authorImage: "https://images-ext-2.discordapp.net/external/lqk_o8KTfciplbwm8p-6JLSrI3MflyYC4OKT4kENI3A/https/cdn.discordapp.com/icons/887212204535988275/b1a8fe567b321070e0bf4513135d607c.webp?width=86&height=86",
         image: 'https://images-ext-2.discordapp.net/external/lqk_o8KTfciplbwm8p-6JLSrI3MflyYC4OKT4kENI3A/https/cdn.discordapp.com/icons/887212204535988275/b1a8fe567b321070e0bf4513135d607c.webp?width=86&height=86',
-        favicon: '/anfra-logo.png',
+        favicon: 'https://images-ext-2.discordapp.net/external/lqk_o8KTfciplbwm8p-6JLSrI3MflyYC4OKT4kENI3A/https/cdn.discordapp.com/icons/887212204535988275/b1a8fe567b321070e0bf4513135d607c.webp?width=86&height=86',
         url: 'anfra-op.tk',
         themeColor: '#4e1ead',
         email: 'contact@tresthost.com',
